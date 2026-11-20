@@ -1,6 +1,10 @@
 # Sum up 19 November 2026's world news in one image
 
-Entry for make.fun bounty `news-image-20261119`.
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/xiaokeai8881975/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/xiaokeai8881975/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
+Entry for the [make.fun bounty `news-image-20261119`](https://make.fun/bounty/news-image-20261119).
 
 The program is `main.py` (Python 3.13, standard library only). It copies
 `entry.png` to `/output/entry.png`. The image is 1024x1024, under 1 MiB,
