@@ -2,9 +2,8 @@
 
 Entry for make.fun bounty `news-image-20261119`.
 
-The program is `main.py` (Python 3.13, standard library only). The image
-is embedded in `main.py` as base64, and the program decodes it to
-`/output/entry.png`. The image is 1024x1024, under 1 MiB,
+The program is `main.py` (Python 3.13, standard library only). It copies
+`entry.png` to `/output/entry.png`. The image is 1024x1024, under 1 MiB,
 and names Thursday 19 November 2026.
 
 Six stories, all 19 November 2026:
